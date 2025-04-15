@@ -1,0 +1,12 @@
+openai==0.28
+pandas
+fpdf
+
+
+streamlit
+langchain
+
+
+
+
+Add requirements.txt
