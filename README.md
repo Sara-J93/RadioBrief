@@ -8,7 +8,7 @@ This project is divided into several components, each addressing a specific aspe
 
 1.  **Main Article Processing Pipeline**
 
-    * Notebook: `Perfect_results_WithReport.ipynb`
+    * Notebook: `RadioBrief_pipeline_WithReport.ipynb`
     * Description: This notebook handles the core article processing steps, including:
         * PDF text extraction
         * Article segmentation
